@@ -1,9 +1,14 @@
 
 👋Hi, I’m @Himanshugp11
-👀 I’m interested in Frontend development. 
+👀 I’m interested in Data Engg. and AI. 
 Frontend development work - https://codepen.io/himanshu_gupta 
-Technical Skills - C , Html , Css , Bootstrap ,Python , Sql , Aws 
-🌱 I’m currently learning ... js
+Technical Skills - 
+AWS tools - s3,sns,sqs,lambda,cloudwatch,athena,ami,ec2,emr.
+progarmming language - python ,C++,pandas, numpy, pyspark,boto3, wraggler.
+big data Tech. - hadoop- hive, hdfs, yarn, Airflow. 
+o/p system - windows,linux
+other - git hub, vs code 
+🌱 I’m currently learning ... 
 💞️ I’m looking to collaborate on opensourse.
 📫 How to reach me - himanshugp11@gmail.com
 <!---
